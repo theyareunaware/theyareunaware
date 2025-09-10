@@ -1,6 +1,6 @@
 # Hey, I'm Calum 👋
 
-💡 Entrepreneur | 🖥 Web Builder | 🏃 Movement Enthusiast  
+💡 Entrepreneur | 🖥 Developer | 🏃 Movement Enthusiast  
 
 > *“Its not how I planned it to be, its not how I dreamed it to be, but maybe it was everything I needed it to be — Sally McRae”*
 
