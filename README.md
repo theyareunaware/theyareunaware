@@ -2,7 +2,7 @@
 
 💡 Entrepreneur | 🖥 Web Builder | 🏃 Movement Enthusiast  
 
-> *“Code is just creativity wearing a logical mask.”*
+> *“Its not how I planned it to be, its not how I dreamed it to be, but maybe it was everything I needed it to be — Sally McRae”*
 
 ---
 
@@ -13,10 +13,10 @@
 
 ---
 
-### 🕹 Fun Facts
+### 🕹 A bit about me
 - 📖 Favourite downtime: deep dives into books or games
 - 🏋️ Full-body workouts 3x a week
-- 🤔 Can talk about **business models** or **game design** for hours
+- 🤔 Can talk about **business models** or **games** for hours
 
 ---
 
