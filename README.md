@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 What I'm About
-- Building towards $30M liquidity by 2029 (yeah, ambitious)
+- Building towards $30M liquidity by 2031 (yeah, ambitious)
 - Currently diving into **Python → Data Science → Machine Learning**
 - Obsessed with blending business, fitness, and tech
 
