@@ -26,7 +26,7 @@
 ---
 
 ### 📬 Let's Connect
-[Twitter](#) • [LinkedIn](#https://www.linkedin.com/in/calum-treloar/) • [Personal Website](#)
+[Twitter](#) • [LinkedIn](https://www.linkedin.com/in/calum-treloar/) • [Personal Website](#)
 
 *If you’re building something exciting, I’d probably love to hear about it.*
 
